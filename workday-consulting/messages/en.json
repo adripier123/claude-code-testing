@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "title": "Workday Consulting Montreal | Expert Workday Implementation & Support",
+    "description": "Boutique Workday consulting firm based in Montreal, QC. Expert implementation, optimization, and support services for Workday HCM, Financials, and more."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "clients": "Clients",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "getInTouch": "Get in Touch"
+  },
+  "hero": {
+    "tagline": "Boutique Workday Consulting",
+    "title": "Transform Your Workday Experience",
+    "subtitle": "Montreal-based experts delivering personalized Workday solutions. We bring enterprise-level expertise with boutique-level attention to your unique business needs.",
+    "cta": "Start Your Transformation",
+    "secondaryCta": "Learn More"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Workday expertise tailored to your organization",
+    "implementation": {
+      "title": "Workday Implementation",
+      "description": "End-to-end implementation services for Workday HCM, Financials, and Adaptive Planning. We guide you through every phase from planning to go-live and beyond."
+    },
+    "optimization": {
+      "title": "System Optimization",
+      "description": "Maximize your Workday investment with our optimization services. We analyze your current configuration and implement improvements to enhance efficiency and user experience."
+    },
+    "integration": {
+      "title": "Integration Services",
+      "description": "Seamless integration of Workday with your existing systems. Our experts design and implement robust integrations using Workday Studio, EIBs, and APIs."
+    },
+    "support": {
+      "title": "Managed Support",
+      "description": "Ongoing support and maintenance services to keep your Workday environment running smoothly. From troubleshooting to feature releases, we've got you covered."
+    },
+    "training": {
+      "title": "Training & Adoption",
+      "description": "Comprehensive training programs designed to maximize user adoption and ensure your team gets the most out of Workday's powerful features."
+    },
+    "reporting": {
+      "title": "Reporting & Analytics",
+      "description": "Unlock the power of your data with custom reports, dashboards, and analytics solutions built on Workday's robust reporting framework."
+    }
+  },
+  "clients": {
+    "title": "Our Clients",
+    "subtitle": "Trusted by leading organizations across industries",
+    "current": "Current Clients",
+    "former": "Former Clients",
+    "industries": {
+      "healthcare": "Healthcare",
+      "finance": "Financial Services",
+      "manufacturing": "Manufacturing",
+      "retail": "Retail",
+      "technology": "Technology",
+      "education": "Education"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Real feedback from organizations we've helped transform"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Ready to transform your Workday experience? Let's talk.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Thank you! We'll be in touch soon.",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "location": "Montreal, Quebec, Canada",
+      "email": "info@workdayconsulting.ca",
+      "phone": "+1 (514) 555-0123"
+    }
+  },
+  "footer": {
+    "description": "Boutique Workday consulting firm delivering personalized solutions to organizations across Canada.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "copyright": "© 2024 Workday Consulting Montreal. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "subtitle": "Let's discuss how we can help you get the most out of Workday.",
+    "button": "Schedule a Consultation"
+  }
+}
